@@ -1,0 +1,16 @@
+.Box {
+    margin: 40px;
+    border: 5px solid pink;
+    border-radius: 5px;
+  }
+  
+  .Box_content {
+    font-size: 15px;
+    text-align: center;
+    color:#aaa;
+  }
+
+  .header {
+    text-align: center;
+    color: #F5C6C5;
+  }
